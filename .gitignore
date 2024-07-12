@@ -1,0 +1,6 @@
+.vscode
+.ruff_cache
+.venv
+venv
+venv-ollama-streamlit
+utilities/__pycache__
